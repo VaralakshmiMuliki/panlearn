@@ -1,0 +1,42 @@
+
+.content-header{
+    margin-bottom: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+}
+.content-title{
+    color: #050505;
+    font-weight: 600;
+    font-size: 1.2em;
+    line-height: 30px;
+    
+  }
+  .add-org-button{
+   background-color:  #0076BF;
+   padding: 20px;
+   display: flex;
+   align-items: center;
+   color: #ffffff;
+   font-weight: 600;
+   font-size: 0.8em;
+  }
+  .search-box {
+    
+    width: 258px;
+    height: 42px;
+  }
+  
+  .grid-icon-1{
+    color: blue;
+  }
+  .grid-icon-2{
+    color: #626262;
+  }
+  .list-icon-1{
+    color: #626262;
+  }
+  .list-icon-2{
+    color: blue;
+  }
